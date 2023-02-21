@@ -1,0 +1,11 @@
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  color: g;
+  margin-left: 40px;
+}
+p {
+  border: 2px solid purple;
+  margin: 50px;
+}
